@@ -74,7 +74,7 @@ to import nighres by entering::
 
     import nighres
 
-into the first cell of your notebook.
+into the first shmell of your notebook.
 
 Usually you also want to have access to some data when you run nighres. You can grant the Docker container
 access to a data folder on your host OS by using the `-v` tag when you start the container::
